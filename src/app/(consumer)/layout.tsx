@@ -1,4 +1,3 @@
-// import { SignedIn } from "@clerk/nextjs";
 import { Button } from "@/components/ui/button";
 import { canAccessAdminPages } from "@/permissions/general";
 import { getCurrentUser } from "@/services/clerk";
